@@ -11,4 +11,15 @@
 ```
 You must provide all your responses exclusively in Arabic
 ```
-فقط.
+لبعض النماذج أضفنا جملة
+```
+Plain Text Only
+```
+لتفادي الإجابات بصيغة Markdown أو HTML.
+
+الهدف ليس عمل إختبار متكامل لهذه النماذج اللغوية بل فقط  رؤية نتائجها للتمكن من مقارنتها بشكل بدائي سريع.
+
+- [رابط الأسئلة](v0.01/Pico-Saudi-LLMs-Questions-v0.01.csv)
+- النتائج:
+  - [Meta LLama 3.1 70B Instruct](v0.01/results/meta-llama-3-70b-instruct.md)
+  - [Meta LLama 3.1 405B Instruct](v0.01/results/meta-llama-3.1-405b-instruct.md)
