@@ -23,3 +23,4 @@ Plain Text Only
 - النتائج:
   - [Meta LLama 3.1 70B Instruct](v0.01/results/meta-llama-3-70b-instruct.md)
   - [Meta LLama 3.1 405B Instruct](v0.01/results/meta-llama-3.1-405b-instruct.md)
+  - [Google-DeepMind Gemma-2 2b Instruct](v0.01/results/gemma-2-2b-it.md)
