@@ -29,3 +29,4 @@ Plain Text Only
   - [Meta LLama 3.1 405B Instruct](v0.01/results/meta-llama-3.1-405b-instruct.md)
   - [Google-DeepMind Gemma-2 2b Instruct](v0.01/results/gemma-2-2b-it.md)
   - [Google-DeepMind Gemma-2 9b Instruct](v0.01/results/gemma2-9b-it.md)
+  - [Google-DeepMind Gemma2 27b Instruct](v0.01/results/gemma2-27b-it.md)
