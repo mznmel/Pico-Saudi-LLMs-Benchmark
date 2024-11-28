@@ -31,3 +31,4 @@ Plain Text Only
   - [Google-DeepMind Gemma-2 9b Instruct](v0.01/results/gemma2-9b-it.md)
   - [Google-DeepMind Gemma2 27b Instruct](v0.01/results/gemma2-27b-it.md)
   - [Microsoft Phi-3 Mini 4k Instruct](v0.01/results/phi-3-mini-4k-instruct.md)
+  - [CohereForAI Aya-Expanse 8b](v0.01/results/CohereForAI-aya-expanse-8b.md)
