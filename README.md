@@ -23,12 +23,14 @@ Plain Text Only
 
 الهدف ليس عمل إختبار متكامل لهذه النماذج اللغوية بل فقط  رؤية نتائجها للتمكن من مقارنتها بشكل بدائي سريع.
 
-- [رابط الأسئلة](v0.01/Pico-Saudi-LLMs-Questions-v0.01.csv)
-- النتائج:
-  - [Meta LLama 3.1 70B Instruct](v0.01/results/meta-llama-3-70b-instruct.md)
-  - [Meta LLama 3.1 405B Instruct](v0.01/results/meta-llama-3.1-405b-instruct.md)
-  - [Google-DeepMind Gemma-2 2b Instruct](v0.01/results/gemma-2-2b-it.md)
-  - [Google-DeepMind Gemma-2 9b Instruct](v0.01/results/gemma2-9b-it.md)
-  - [Google-DeepMind Gemma2 27b Instruct](v0.01/results/gemma2-27b-it.md)
-  - [Microsoft Phi-3 Mini 4k Instruct](v0.01/results/phi-3-mini-4k-instruct.md)
-  - [CohereForAI Aya-Expanse 8b](v0.01/results/CohereForAI-aya-expanse-8b.md)
+| Company           | Model Name                  | Parameters | Results Link                                           |
+|-------------------|-----------------------------|------------|--------------------------------------------------------|
+| Meta              | LLama 3.1                   | 70B        | [Meta LLama 3.1 70B Instruct](v0.01/results/meta-llama-3-70b-instruct.md) |
+| Meta              | LLama 3.1                   | 405B       | [Meta LLama 3.1 405B Instruct](v0.01/results/meta-llama-3.1-405b-instruct.md) |
+| Google-DeepMind   | Gemma-2                     | 2B         | [Google-DeepMind Gemma-2 2b Instruct](v0.01/results/gemma-2-2b-it.md) |
+| Google-DeepMind   | Gemma-2                     | 9B         | [Google-DeepMind Gemma-2 9b Instruct](v0.01/results/gemma2-9b-it.md) |
+| Google-DeepMind   | Gemma-2                     | 27B        | [Google-DeepMind Gemma-2 27b Instruct](v0.01/results/gemma2-27b-it.md) |
+| Microsoft         | Phi-3 Mini                  | 3.8B       | [Microsoft Phi-3 Mini 3.8b Instruct](v0.01/results/phi-3-mini-4k-instruct.md) |
+| CohereForAI       | Aya-Expanse                 | 8B         | [CohereForAI Aya-Expanse 8b](v0.01/results/CohereForAI-aya-expanse-8b.md) |
+
+### [رابط الأسئلة](v0.01/Pico-Saudi-LLMs-Questions-v0.01.csv)
