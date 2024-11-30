@@ -33,5 +33,6 @@ Plain Text Only
 | Microsoft         | Phi-3 Mini                  | 3.8B       | [Microsoft Phi-3 Mini 3.8b Instruct](v0.01/results/phi-3-mini-4k-instruct.md) |
 | CohereForAI       | Aya-Expanse                 | 8B         | [CohereForAI Aya-Expanse 8b](v0.01/results/CohereForAI-aya-expanse-8b.md) |
 | HuggingFace       | SmolLM2                     | 135M       | [HuggingFaceTB SmolLM2 135M Instruct](v0.01/results/HuggingFaceTB-SmolLM2-135M-Instruct.md) |
+| Alibaba           | Qwen-QwQ-Preview            | 32B        | [Alibaba Qwen-QwQ-Preview 32B](v0.01/results/Alibaba-Qwen-QwQ-32B-Preview.md) |
 
 ### [رابط الأسئلة](v0.01/Pico-Saudi-LLMs-Questions-v0.01.csv)
