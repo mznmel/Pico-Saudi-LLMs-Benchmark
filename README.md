@@ -27,6 +27,7 @@ Plain Text Only
 |-------------------|-----------------------------|------------|--------------------------------------------------------|
 | Meta              | LLama 3.1                   | 70B        | [Meta LLama 3.1 70B Instruct](v0.01/results/meta-llama-3-70b-instruct.md) |
 | Meta              | LLama 3.1                   | 405B       | [Meta LLama 3.1 405B Instruct](v0.01/results/meta-llama-3.1-405b-instruct.md) |
+| Meta              | LLama 3.3                   | 70B        | [Meta LLama 3.3 70B Instruct](v0.01/results/Meta-Llama-3.3-70B-Instruct.md) |
 | Google-DeepMind   | Gemma-2                     | 2B         | [Google-DeepMind Gemma-2 2b Instruct](v0.01/results/gemma-2-2b-it.md) |
 | Google-DeepMind   | Gemma-2                     | 9B         | [Google-DeepMind Gemma-2 9b Instruct](v0.01/results/gemma2-9b-it.md) |
 | Google-DeepMind   | Gemma-2                     | 27B        | [Google-DeepMind Gemma-2 27b Instruct](v0.01/results/gemma2-27b-it.md) |
